@@ -39,9 +39,10 @@
   },
   
     "product-price": {
-    "props": {
-      "showSavings": true,
-      "showListPrice": true
+      "props": {
+        "showSavings": true,
+        "showListPrice": true
+      }
     },
 
     "flex-layout.row#qty-sku": {
@@ -52,4 +53,3 @@
       ]
     }
   }
-}
