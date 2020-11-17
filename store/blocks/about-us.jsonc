@@ -3,6 +3,7 @@
       "blocks": [
         "flex-layout.row#about-us",
         "tab-layout#home",
+        "tab-list#home",
         "tab-content#home"
       ]
     },
@@ -41,8 +42,8 @@
     },
     "tab-layout#home": {
         "children": [
-            "tab-list.item#home1",
-            "tab-list.item#home2"
+            "tab-list#home",
+            "tab-list#content"
         ]
     },
     "tab-list.item#home1": {
