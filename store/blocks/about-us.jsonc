@@ -43,9 +43,16 @@
     "tab-layout#home": {
         "children": [
             "tab-list#home",
-            "tab-list#content"
+            "tab-content#home"
         ]
     },
+    "tab-list#home": {
+        "children": [
+            "tab-list.item#home1",
+            "tab-list.item#home2"
+        ]
+    },
+
     "tab-list.item#home1": {
         "props": {
             "label": "Major Appliances",
