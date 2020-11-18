@@ -4,7 +4,8 @@
         "children":[
             "flex-layout.row#major",
             "vtex.menu@2.x:menu#major"
-        ]
+        ],
+        "blocks": ["flex-layout.row#major"]
     },
     "vtex.menu@2.x:menu#major": {
         "children": [
