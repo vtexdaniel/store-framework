@@ -45,5 +45,8 @@
           "props":{
             "orientation": "vertical"
           }
-        }
+        },
+        "vtex.menu@2.x:submenu#major": {
+            "blocks": ["flex-layout.row#major"]
+            }
 }
