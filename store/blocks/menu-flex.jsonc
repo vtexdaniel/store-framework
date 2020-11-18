@@ -31,11 +31,11 @@
         "children": [
             "image#menu",
             "rich-text#header"
-        ]
-    },
-    "props":{
-        "paddingRight": 4,
-        "horizontalAlign": "right"
+        ],
+        "props":{
+            "paddingRight": 4,
+            "horizontalAlign": "right"
+        }
       },
       "image#menu": {
         "props": {
